@@ -8,7 +8,6 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.*
-import androidx.compose.ui.graphics.Color
 import com.conkers.futbolito.Componentes.GameScreen
 import com.conkers.futbolito.Componentes.MenuScreen
 import com.conkers.futbolito.Componentes.OptionsScreen
